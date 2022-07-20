@@ -5,8 +5,9 @@ body {
   background-color: #f3f6f4;
 }
 
-.header {
+header {
   text-align: center;
+  justify-content: space-evenly;
   margin: 0;
   padding: 32px;
   background: #212e26;
@@ -94,8 +95,9 @@ fieldset {
   border-radius: 10px;
 }
 
-#back-top {
-  color: #b38a35;
+h4 > a {
+  color:#6e9a80;
+  text-decoration: none;
 }
 
 #footer {
